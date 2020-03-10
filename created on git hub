@@ -1,13 +1,13 @@
 https://www.youtube.com/watch?v=7CqJlxBYj-M&t=4288s
 //earn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js)
 236,827 views•Jun 25, 2019
+https://github.com/beaucarnes/mern-exercise-tracker-mongodb/tree/master/backend
 ///
-steps to create mongodb
+***steps to create mongodb
 mkdir backend
 npm init -y
 npm install express cors mongoose dotenv
 npm install -g nodemon
-//--video says use this but not working so useing npm sudo install -g nodemon
-(-g for global)
-
-might need to fix the other gitignore that is in the main android folder I think I clicked git init in the wrong folder
+***video says use this but not working so useing npm sudo install -g nodemon
+***(-g for global)
+***might need to fix the other gitignore that is in the main android folder I think I clicked git init in the wrong folder
